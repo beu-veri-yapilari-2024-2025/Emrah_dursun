@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\husey\source\repos\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\husey\source\repos\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\husey\source\repos\uygulama\uygulama\obj\Debug\linkt-list.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\uygulama\uygulama\obj\Debug\linkt-list.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\husey\source\repos\uygulama\uygulama\obj\Debug\uygulama.pdb
