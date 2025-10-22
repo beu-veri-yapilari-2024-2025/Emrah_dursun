@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\obj\Debug\Düğüm-liste.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\obj\Debug\Düğüm-liste.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\bin\Debug\Düğüm-liste.exe.config
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\bin\Debug\Düğüm-liste.exe
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\bin\Debug\Düğüm-liste.pdb
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\obj\Debug\Düğüm-liste.exe
+C:\Users\husey\source\repos\Düğüm-liste\Düğüm-liste\obj\Debug\Düğüm-liste.pdb
