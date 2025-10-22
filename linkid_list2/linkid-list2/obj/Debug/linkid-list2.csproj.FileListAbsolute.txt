@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\bin\Debug\linkid-list2.exe.config
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\bin\Debug\linkid-list2.exe
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\bin\Debug\linkid-list2.pdb
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\obj\Debug\linkid-list2.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\obj\Debug\linkid-list2.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\obj\Debug\linkid-list2.exe
+C:\Users\husey\source\repos\linkid-list2\linkid-list2\obj\Debug\linkid-list2.pdb
